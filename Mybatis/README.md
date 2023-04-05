@@ -1,2 +1,6 @@
-# Scaffolding_Development
-This is a variety of scaffolding development projects, with Java development JVM, HTTP services and SpringSecurity+JWT and other scaffolding and frameworks, all of which are personal reference development（这是一个多种脚手架开发项目，有java开发jvm，http服务和springsecurity+jwt等脚手架与框架，都是个人寻找参考文献开发）
+```
+手写Mybatis框架：
+定义一个表示数据库操作的接口
+编写将接口方法映射到 SQL 查询的 XML 映射文件
+使用 Mybatis 生成执行映射 SQL 查询的接口的实现
+```

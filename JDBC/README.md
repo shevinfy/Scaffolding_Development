@@ -1,2 +1,5 @@
-# Scaffolding_Development
-This is a variety of scaffolding development projects, with Java development JVM, HTTP services and SpringSecurity+JWT and other scaffolding and frameworks, all of which are personal reference development（这是一个多种脚手架开发项目，有java开发jvm，http服务和springsecurity+jwt等脚手架与框架，都是个人寻找参考文献开发）
+```
+封装JDBC操作的包装类
+在包装类上定义方法以执行常见的数据库操作（例如选择、插入、更新、删除）
+使用 JDBC API 实现方法
+```

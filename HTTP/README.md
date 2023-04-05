@@ -1,2 +1,5 @@
-# Scaffolding_Development
-This is a variety of scaffolding development projects, with Java development JVM, HTTP services and SpringSecurity+JWT and other scaffolding and frameworks, all of which are personal reference development（这是一个多种脚手架开发项目，有java开发jvm，http服务和springsecurity+jwt等脚手架与框架，都是个人寻找参考文献开发）
+```
+编写一个类来监听传入的 HTTP 请求
+定义处理不同类型请求的路由（例如 GET、POST、PUT、DELETE）
+实施执行业务逻辑并返回适当响应的请求处理程序
+```
